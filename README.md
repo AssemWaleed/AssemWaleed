@@ -14,7 +14,7 @@
 </p>
 
 <a href="#assem-title">
-  <img src="https://raw.githubusercontent.com/AssemWaleed/github-stats-transparent/output/generated/overview.svg" alt="assem-stats" align="right" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AssemWaleed&show_icons=true&theme=dark&hide_border=true" alt="assem-stats" align="right" />
 </a>
 
 - 💻 &nbsp;I'm currently learning **advanced Django**
@@ -32,27 +32,27 @@
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="./img/html5-original.svg" width="48" height="48" alt="HTML" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML" />
       <br>HTML
     </td>
     <td align="center" width="96">
-      <img src="./img/css3-original.svg" width="48" height="48" alt="CSS" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS" />
       <br>CSS
     </td>
     <td align="center" width="96">
-      <img src="./img/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
       <br>JavaScript
     </td>
     <td align="center" width="96">
-      <img src="./img/django-plain.svg" width="48" height="48" alt="Django" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="48" height="48" alt="Django" />
       <br>Django
     </td>
     <td align="center" width="96">
-      <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
       <br>Python
     </td>
     <td align="center" width="96">
-      <img src="./img/bootstrap-original.svg" width="48" height="48" alt="Bootstrap" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="48" height="48" alt="Bootstrap" />
       <br>Bootstrap
     </td>
   </tr>
@@ -60,7 +60,7 @@
 
 <h2 align="left">Coding Activity</h2>
 
-> Total logged coding time (Wakatime). Updated automatically.
+> Total logged coding time (example). Replace with your WakaTime or custom widget if needed.
 
 <!-- prettier-ignore-start -->
 <!-- START_SECTION:ascii_graph -->
