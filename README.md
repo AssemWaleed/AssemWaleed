@@ -107,8 +107,8 @@
 ---
 
 ## 🌐 Contact
-🎮 Discord: assomaa
-🌍 Portfolio: https://assemwaleed.netlify.app/ 
+🎮 Discord: **assomaa**
+🌍 Portfolio: **https://assemwaleed.netlify.app/**
 
 ---
 
