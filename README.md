@@ -57,7 +57,7 @@
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="https://cdn2.steamgriddb.com/icon/16ce171d1dd5feadd8e8baf54d8cd6c0.png" width="48" height="48" />
+      <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0152c0d2-f035-40cb-96f0-637fc06b61e0/d1c3vxi-f63dd25b-f568-48a0-84f6-a2cb2de4f7be.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi8wMTUyYzBkMi1mMDM1LTQwY2ItOTZmMC02MzdmYzA2YjYxZTAvZDFjM3Z4aS1mNjNkZDI1Yi1mNTY4LTQ4YTAtODRmNi1hMmNiMmRlNGY3YmUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.gZ-OFcHS8lh0MSOMcK-MkhatTZQ7FlC3zJBqe0ATRm0" width="48" height="48" />
       <br>COD4 Modding
     </td>
     <td align="center" width="120">
