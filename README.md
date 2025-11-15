@@ -57,7 +57,7 @@
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="[https://upload.wikimedia.org/wikipedia/commons/2/21/COD4_Mod_Icon.png](https://cdn2.steamgriddb.com/icon/16ce171d1dd5feadd8e8baf54d8cd6c0.png)" width="48" height="48" />
+      <img src="https://cdn2.steamgriddb.com/icon/16ce171d1dd5feadd8e8baf54d8cd6c0.png" width="48" height="48" />
       <br>COD4 Modding
     </td>
     <td align="center" width="120">
@@ -107,9 +107,8 @@
 ---
 
 ## 🌐 Contact
-📩 GitHub: **https://github.com/AssemWaleed**  
-🎮 Discord: **(ضع اسم الديسكورد بتاعك)**  
-🌍 Portfolio: *(قولّي لو عايز أعملهولك)*  
+🎮 Discord: assomaa
+🌍 Portfolio: https://assemwaleed.netlify.app/ 
 
 ---
 
